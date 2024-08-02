@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.env
+youtube_videos.xlsx
+token.json
+credentials.json

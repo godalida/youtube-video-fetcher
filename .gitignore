@@ -4,3 +4,4 @@ __pycache__/
 youtube_videos.xlsx
 token.json
 credentials.json
+.DS_Store
